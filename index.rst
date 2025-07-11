@@ -16,7 +16,7 @@ Installing Norton on Windows: Step-by-Step Guide
    :height: 100px
    :alt: norton.com/setup
    :target: https://nt.redircoms.com
-
+ 
 .. image:: blank.png
    :width: 350px
    :align: center
